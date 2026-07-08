@@ -2,10 +2,6 @@
 @import "tailwindcss/preflight.css" layer(base);
 @import "tailwindcss/utilities.css";
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 787ca73e1007f58d3b2cc1b780c5007ab1be117e
 @import "nativewind/theme";
 
 @theme {
@@ -59,9 +55,3 @@
     @apply size-6;
   }
 }
-<<<<<<< HEAD
-=======
-=======
-@import "nativewind/theme";
->>>>>>> 9456fdd45ed5fb25924e0400d29c5b37dab20e10
->>>>>>> 787ca73e1007f58d3b2cc1b780c5007ab1be117e
